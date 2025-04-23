@@ -1,6 +1,6 @@
 # 🏦 Visualizing Model Performance with Bank Data
 
-This project was completed as part of the **Data Science for Business (Course 657)** in the MSBA program at **UMass Amherst – Isenberg School of Management**. The objective was to build and evaluate classification models using bank marketing data, and to effectively visualize and interpret model performance for business decision-making.
+This project was completed as part of the **657 - Data Science for Business** course in the MSBA program at **UMass Amherst – Isenberg School of Management**. The objective was to build and evaluate classification models using bank marketing data, and to effectively visualize and interpret model performance for business decision-making.
 
 ## 🎯 Objective
 
